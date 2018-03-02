@@ -1,0 +1,16 @@
+{
+  "name": "logger",
+  "description": "logger",
+  "repository": "https://github.com/bravelycreated/node-logger",
+  "license": "UNLICENSED",
+  "private": "true",
+  "version": "1.0.0",
+  "main": "logger.js",
+  "peerDependencies": {
+    "winston": "^2.0.0"
+  },
+  "dependencies": {
+    "moment": "^2.18.1",
+    "util": "^0.10.3"
+  }
+}
